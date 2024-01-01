@@ -1,4 +1,4 @@
-此项目用于完成邱锡鹏老师的nlp-beginner项目。
+此项目用于完成邱锡鹏老师的[nlp-beginner项目](https://github.com/FudanNLP/nlp-beginner)。
 
 github上也有很多相关的实现，但是都和我想象中的实现都不太一样，有些没有完全按照原要求来写、还有一些实现的写法不是很通用。
 
