@@ -2,3 +2,4 @@
 *.pt
 *.model
 task2/.vector_cache/glove.6B.zip
+task2/.ipynb_checkpoints
