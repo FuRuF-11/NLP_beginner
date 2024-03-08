@@ -4,5 +4,5 @@ github上也有很多相关的实现，但是都和我想象中的实现都不�
 
 故在此分享自己的一种实现，欢迎大家提issue。
  + task1:(done)，使用纯numpy实现BOW\N-gram文本表示、softmax回归、mini-batch SGD、特折选择，效果比sklearn原生的logistics回归效果好。
- + task2:(done)，实现了随机向量初始化、word2vec、GloVe三种实现词嵌入的方式，使用pytorch搭建TextCNN以及一个RNN对文本进行分类。
+ + task2:(done)，实现了随机向量初始化、word2vec、GloVe三种方式的词嵌入，使用pytorch搭建了一个TextCNN和RNN对文本进行分类。由于数据量较大，建议使用GPU。
  + task3:(donig)，
